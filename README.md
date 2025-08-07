@@ -6,7 +6,7 @@
 ## Dataset used in the project
 Kaggle dataset link - https://github.com/123Tanisha/IBM-PROJECT-Network-Intrusion-Detection/blob/main/Train_data.csv
 
-## NoteBook LM
+## Jupiter Notebook
 https://github.com/123Tanisha/IBM-PROJECT-Network-Intrusion-Detection/blob/main/_P6%20-%20Snap%20Random%20Forest%20Classifier_%20Network%20In....ipynb
 
 ## Results
